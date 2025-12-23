@@ -10,7 +10,8 @@ IRONCLAD is a modular, policy-driven security assurance framework designed for L
 
 It performs read-only analysis of system configurations, network exposure, and identity management to calculate a risk score based on customizable policies (CIS Level 1/2). It features built-in baseline drift detection and can run as a persistent daemon for continuous security monitoring.
 
-**Author:** [Syed Sameer ul Hassan](https://sameer.orildo.online)  
+**Author:** [Syed Sameer ul Hassan](https://www.instagram.com/syed_sameer_ul_hassan_kazmi?igsh=MTR5b3VpdDNqMWtvdA==)
+**Website:** sameer.orildo.online
 **Contact:** sameer@orildo.online
 
 ---
