@@ -1,4 +1,4 @@
-# IRONCLAD
+
 **Enterprise Linux Security & Assurance Tool**
 
 <p align="center">
