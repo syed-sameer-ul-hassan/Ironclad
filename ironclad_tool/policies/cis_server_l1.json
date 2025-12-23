@@ -1,0 +1,10 @@
+{
+  "policy_name": "CIS Level 1 - Server (adapted)",
+  "version": "1.0.0",
+  "rules": {
+    "SSH_ROOT_LOGIN": { "severity": "CRITICAL" },
+    "SSH_PASS_AUTH": { "severity": "HIGH" },
+    "FW_ACTIVE": { "severity": "CRITICAL" },
+    "UID_0_CHECK": { "severity": "CRITICAL" }
+  }
+}
